@@ -7,8 +7,7 @@ body{
 	width: 50%
 	border: 2px solid green;
 	padding: 10px;
-	display:block;
-	text-align:center;
+		
 }
 
 
@@ -26,5 +25,16 @@ body{
 	font-family: arial, sans-serif;
 	color:rgb(102, 102, 102);
 	text-decoration-line: none;
+	margin:10px;
+
+}
+
+button{
+	margin:5px;
+}
+
+
+#searchbox{
+	width:40%
 
 }
